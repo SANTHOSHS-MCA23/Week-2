@@ -1,13 +1,15 @@
-# Bouncing Ball Animation
-# Description
+# BOUNCING BALL
 
-This project showcases a simple yet captivating animation of a colorful ball that gracefully moves up and down within the constraints of thex and y ases, emulating the motion of a bouncing ball The animation will restart automatically each time you load the page providing an aesthetically pleasing visual experience.
+# Description:
 
-# How to Run the Code:
-Step1 Save the HTML file with a html extension
+Elevate the animation by enabling user input for modifying the ball's movement, incorporating elements like keyboard and mouse controls, as well as introducing obstacles or targets to enhance interactivity.
 
-Step2 Click the "Go Live" button to open a new browser window and witness the mesmerizing Bouncing Ball animation
+# How to run the code:
 
-# Future Enhancements:
+Step1:Save the HTML file with a .html extension.
 
-In the future we can consider enriching this project with user interaction features such as the ability to click and drag the ball customizable ball properties to change its appearance and the incorporation of physics-based interactions like ball collisions. These enhancements would elevate the animation, making it even more engaging and interactive for users
+Step2:Click the "Go Live" button to open a new browser window displaying the Bouncing_Ball animation.
+
+# Future improvement:
+
+consider integrating user interaction like click-and-drag functionality, customizable ball properties, and physics-based interactions, such as ball collisions, for a more engaging and interactive animation.
